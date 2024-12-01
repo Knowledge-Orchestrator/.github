@@ -1,10 +1,7 @@
-<!-- Add this in your README.md -->
-
 <div align="center">
-
 <img src="https://www.knowledge-orchestrator.com/wp-content/uploads/2024/12/white_logo_transparent_background.png" alt="Knowledge Orchestrator Logo" width="400"/>
 
-*Proect Corporate Knowledge
+*Protect Corporate Knowledge
 *Augment Employee Productivity
 
 </div>
